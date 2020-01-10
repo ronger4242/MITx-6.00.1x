@@ -1,7 +1,7 @@
 # MITx-6.00.1x
 Midterm and Final for MITx 6.00.1x
 # Misterm
-* count7
+* count7 <br>
 Write a recursive Python function, given a non-negative integer N, to count and return the number of occurrences of the digit 7 in N.
 * dotproduct
 Write a Python function that returns the sum of the pairwise products of listA and listB.
